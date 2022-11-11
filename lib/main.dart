@@ -29,7 +29,7 @@ class MyApp extends StatelessWidget {
           ),
         ),
         body: FirstPage(
-          value: 'Data Passing',
+          value: '',
         ),
       ),
     );

@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 
 // ignore: must_be_immutable
-class LoginHomepage extends StatelessWidget {
+class SecondPage extends StatelessWidget {
   String value;
 
-  LoginHomepage({super.key, required this.value});
+  SecondPage({super.key, required this.value});
 
   @override
   Widget build(BuildContext context) {
